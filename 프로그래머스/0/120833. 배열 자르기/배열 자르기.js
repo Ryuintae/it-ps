@@ -1,4 +1,3 @@
-function solution(numbers, num1, num2) {
-   let arr = numbers.slice(num1,num2+1)
-     return arr;
- }
+    function solution(numbers, num1, num2) {
+        return numbers.splice(num1, num2 - num1  + 1)
+    }
