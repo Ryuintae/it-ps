@@ -1,6 +1,6 @@
 # [level 0] 배열에서 문자열 대소문자 변환하기 - 181875 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181875#) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181875) 
 
 ### 성능 요약
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 10일 00:05:16
+2025년 12월 15일 00:31:05
 
 ### 문제 설명
 
